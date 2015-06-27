@@ -22,7 +22,7 @@ View remote connections
 Push changes
 ```$ git push <REMOTENAME> <BRANCH>```
 
-You can create and switch to a branch in one line:
+Create and switch to a branch in one line:
 ```$ git checkout -b <BRANCHNAME>```
 
 Create a new branch:
@@ -58,4 +58,4 @@ Delete a local branch
 Delete a remote branch
 ```$ git push <REMOTENAME> --delete <BRANCHNAME>```
 
-Source: https://github.com/jlord/git-it
+Source: https://github.com/jlord/git-it 
